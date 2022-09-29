@@ -9,6 +9,7 @@ public class VectorCalculator extends AbstractCalculator
 
     @Override
     public Number add(Number a, Number b) {
+        System.out.println("Ich muss noch commits machen1");
         return null;
     }
 
